@@ -1,0 +1,15 @@
+.chatInterface {
+  width: 80%;
+  height: 70%;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+/* media queries */
+
+@media (max-width: 450px) {
+  .chatInterface {
+    width: 90%;
+  }
+}

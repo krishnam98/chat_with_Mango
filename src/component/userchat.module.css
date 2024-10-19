@@ -1,0 +1,28 @@
+.userchat {
+  display: flex;
+  justify-content: flex-end;
+  border-radius: 10px;
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+}
+
+.userchat_text {
+  margin-bottom: 10px;
+  min-width: 20%;
+  max-width: 40%;
+  word-wrap: break-word;
+  margin-right: 20px;
+  background-color: rgba(87, 86, 86, 0.308);
+  color: white;
+  height: fit-content;
+  padding: 10px 5px;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user_timestaps {
+  color: rgb(188, 187, 187);
+  font-size: 0.5rem;
+  margin-top: 10px;
+}

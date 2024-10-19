@@ -1,0 +1,28 @@
+.botchat {
+  display: flex;
+  justify-content: flex-start;
+  border-radius: 10px;
+  width: 100%;
+  height: fit-content;
+  text-align: center;
+}
+
+.botchat_text {
+  margin-top: 10px;
+  min-width: 20%;
+  max-width: 40%;
+  margin-left: 20px;
+  background-color: rgba(120, 119, 119, 0.486);
+  color: white;
+  height: fit-content;
+  padding: 10px 0px;
+  border-radius: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  word-wrap: break-word;
+}
+
+.botchat_timestamps {
+  color: rgb(188, 187, 187);
+  font-size: 0.5rem;
+  margin-top: 10px;
+}
